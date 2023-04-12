@@ -1,0 +1,26 @@
+.titulo {
+    text-align: center;
+    color: rgb(25, 0, 83);
+}
+
+ html {
+    scroll-behavior: smooth;
+    margin: 100px;
+ }
+
+  h2 {
+    text-align: left;
+  }
+
+  .topo {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+  }
+
+  svg{
+    width: 50px;
+    display: inline;
+    
+  }
