@@ -1,0 +1,72 @@
+tr:first-child {
+    background-color: black;
+    color: white;
+    border: none;
+  }
+  
+  td, th {
+    padding: 10px;
+    text-align: start;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+
+  tr:nth-child(3) {
+    background-color: gray;
+    color: black;
+    border: none;
+  }
+
+  .YT{
+    transition: 0.2s;
+    fill: #CC0000;
+    color: white; 
+    height: 50px;
+    transform: scale(0.9);
+  }
+  
+  .YT :hover{
+    transition: 0.2s;
+    height: 55px;
+    transform: scale(0.9);
+  }
+  
+  .TT {
+    transition: 0.2s;
+    fill: #1A8CD8;
+    color: white; 
+    height: 50px;
+    transform: scale(0.9);  
+}
+  .TT :hover{
+    transition: 0.2s;
+    height: 55fx;
+    transform: scale(0.9); 
+ }
+
+.IT {
+    
+    fill: #EA0C5F;
+    color: white;  
+    height: 50px;   
+    transform: scale(0.9);
+}
+.IT :hover {
+    
+    height: 55px;
+    transform: scale(0.9);
+}
+
+button {
+background-color: transparent;
+border: none;
+}
+
+svg {
+    height: 45px;
+}
+
+
+  
