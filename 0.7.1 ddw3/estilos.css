@@ -1,0 +1,50 @@
+
+div:first-child{
+
+padding: 20px;
+width: 400px;
+height: 250px;
+border: 2px solid black;
+
+
+}
+
+.div2 {
+
+border: none;
+height: 40px;
+display: flex;
+justify-content: space-between;
+margin-top: 50px;
+
+
+}
+
+.excluir {
+
+   padding-left: 50px;
+   padding-right: 50px;
+   
+
+}
+
+p {
+   
+    text-align: justify;
+}
+
+body, html {
+
+    height: 100%;
+
+}
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
