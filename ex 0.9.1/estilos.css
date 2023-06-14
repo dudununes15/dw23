@@ -54,7 +54,6 @@ h1 {
 .ama {
     background-color: rgb(55, 55, 73);
     color: white;
-    border-radius: 30px;
     display: flex;
     align-items: center;
     position: relative;
@@ -71,7 +70,6 @@ h1 {
 .boaTarde {
     background-color: #075E54;
     color: white;
-    border-radius: 30px;
     display: flex;
     align-items: center;
     position: relative;
@@ -91,7 +89,6 @@ h1 {
 .quemEvc {
     background-color: #075E54;
     color: white;
-    border-radius: 30px;
     display: flex;
     align-items: center;
     position: relative;
@@ -138,7 +135,6 @@ svg {
 
 
 }
-
 .Trespontos:hover {
 
     transform: scale(1.3);
